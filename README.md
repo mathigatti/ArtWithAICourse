@@ -4,13 +4,13 @@ Curso de Inteligencia Artificial aplicada al Arte
 Contenidos por clase
 
 - Clase 1: Introducción
-  ● Introducción al aprendizaje automático en la producción artística
-  ● Introducción a las redes neuronales
-    ○ Historia
-    ○ Distintas arquitecturas y sus casos de uso
-  ● Introducción a las herramientas del curso
-    ○ Python (Y sus librerías de machine learning y análisis de datos)
-    ○ Google Colab
+  - Introducción al aprendizaje automático en la producción artística
+  - Introducción a las redes neuronales
+    - Historia
+    - Distintas arquitecturas y sus casos de uso
+  - Introducción a las herramientas del curso
+    - Python (Y sus librerías de machine learning y análisis de datos)
+    - Google Colab
 
 - Clase 2: Generación de Texto
   ● Generación de texto con GPT-2
