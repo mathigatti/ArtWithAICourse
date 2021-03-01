@@ -13,24 +13,24 @@ Contenidos por clase
     - Google Colab
 
 - Clase 2: Generación de Texto
-  ● Generación de texto con GPT-2
+  - Generación de texto con GPT-2
 
 - Clase 3: Generación de texto avanzada y composición musical
-  ● Composición musical con GPT-2
-  ● Otros modelos interesantes
-    ○ Generador de fake news (CTRL)
-    ○ Jukebox
+  - Composición musical con GPT-2
+  - Otros modelos interesantes
+    - Generador de fake news (CTRL)
+    - Jukebox
 
 - Clase 4: Sintesis de voz con redes neuronales (dc_tts)
-  ● Cómo preparar el conjunto de datos para clonar una voz
-  ● Cómo entrenar un modelo para clonar una voz
+  - Cómo preparar el conjunto de datos para clonar una voz
+  - Cómo entrenar un modelo para clonar una voz
 
 - Clase 5: Codificación y síntesis de audio
-  ● Spleeter: Separación de fuentes de audio
-  ● Transcripción de audio a partitura automático
-  ● GANSynth: Síntesis de audio
+  - Spleeter: Separación de fuentes de audio
+  - Transcripción de audio a partitura automático
+  - GANSynth: Síntesis de audio
 
 - Clase 6: Modelos para contenido multimedia
-  ● Modelos de síntesis de canto (Mellotron, Sinsy y vocaloid)
-  ● Síntesis y edición de imágenes
-  ● Síntesis y composición de video
+  - Modelos de síntesis de canto (Mellotron, Sinsy y vocaloid)
+  - Síntesis y edición de imágenes
+  - Síntesis y composición de video
