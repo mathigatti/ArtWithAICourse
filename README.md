@@ -10,7 +10,7 @@ You can follow it order or go straight to the Lectures that you find more intere
 
 ## What I can do with this?
 
-Check some cool projects from students that enrolled in the course [here](https://www.instagram.com/p/CER6jTZAY2A/). You will find fakes news twitter bots, poetry, made up pokemons and an old Freud singing.
+Check some cool projects from students that enrolled in the course [here](https://www.instagram.com/p/CER6jTZAY2A/). You will find fake news twitter bots, poetry, made up pokemons and an old Freud singing.
 
 ## Course syllabus
 
