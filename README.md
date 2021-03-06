@@ -1,7 +1,9 @@
 # ArtWithAI
 Course about artificial intelligence applied to the arts. Notebooks available in spanish and english.
 
-Contents by class
+## Course syllabus
+
+In the links you will find all the materials of each class, [ES] stands for spanish and [EN] for english.
 
 - Lecture 0: Python & Colab intro [[EN](https://colab.research.google.com/drive/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a)] [[ES](https://colab.research.google.com/drive/1yQ0Gd_MYuCTqjquUy9KClE3nWIPX64wj)]
 
@@ -43,3 +45,10 @@ Contents by class
   - Singing synthesis models (Mellotron, Sinsy and vocaloid)
   - Image synthesis and editing
   - Video synthesis and composition
+
+## Support my work
+
+If you want to help me to keep going developing and maintaining open-source projects you can contribute buying me some [ko-fi](https://ko-fi.com/mathigatti).
+
+## License
+MIT
