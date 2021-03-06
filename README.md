@@ -1,5 +1,5 @@
 # ArtWithAI
-Course about artificial intelligence tools and art. Lectures available in spanish and english
+Course about artificial intelligence applied to the arts. Notebooks available in spanish and english.
 
 Contents by class
 
