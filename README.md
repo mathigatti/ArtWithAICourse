@@ -6,6 +6,10 @@ Are you interested in art? Are you curious about how new technological tools mig
 
 You can follow it order or go straight to the Lectures that you find more interesting if you feel confident enough. If you are not familiar with Google Colab you might check first the Lecture 0 and some Youtube tutorials. In the links you will find all the materials of each class, [ES] stands for spanish and [EN] for english.
 
+## What I can do with this?
+
+Check some cool projects from students that enrolled in the course [here](https://medium.com/@artedigital.wip/arte-en-colaboraci%C3%B3n-con-m%C3%A1quinas-1e681aa05dfb). You will find fakes news twitter bots, poetry, made up pokemons and voice synthesizers.
+
 ## Course syllabus
 
 - Lecture 0: Python & Colab intro [[EN](https://colab.research.google.com/drive/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a)] [[ES](https://colab.research.google.com/drive/1yQ0Gd_MYuCTqjquUy9KClE3nWIPX64wj)]
