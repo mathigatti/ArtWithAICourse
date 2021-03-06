@@ -2,7 +2,7 @@
 
 Are you interested in art? Are you curious about how new technological tools might help in your creative process? Then this is the course for you. In this class you are going to learn what Artificial Intelligence is and how to get your hands on practical and fun projects quickly.
 
-[![](sample.gif =100x200)](https://www.instagram.com/tv/CFDZPE2Aaaw/?utm_source=ig_web_copy_link)
+[![](sample.gif=100x)](https://www.instagram.com/tv/CFDZPE2Aaaw/?utm_source=ig_web_copy_link)
 
 ## How to use this material?
 
