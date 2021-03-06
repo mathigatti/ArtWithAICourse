@@ -1,36 +1,38 @@
-# AI-Arte
-Curso de Inteligencia Artificial aplicada al Arte
+# AI-Art
+Artificial Intelligence Course applied to Art
 
-Contenidos por clase
+Contents by class
 
-- Clase 1: Introducción
-  - Introducción al aprendizaje automático en la producción artística
-  - Introducción a las redes neuronales
-    - Historia
-    - Distintas arquitecturas y sus casos de uso
-  - Introducción a las herramientas del curso
-    - Python (Y sus librerías de machine learning y análisis de datos)
+- Lecture 0: Python & Colab intro [[EN](https://drive.google.com/file/d/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a/view?usp=sharing)] [[ES](https://drive.google.com/file/d/1yQ0Gd_MYuCTqjquUy9KClE3nWIPX64wj/view?usp=sharing)]
+
+- Class 1: Introduction
+  - Introduction to machine learning in artistic production
+  - Introduction to neural networks
+    - History
+    - Different architectures and their use cases
+  - Introduction to the course tools
+    - Python (And its machine learning and data analysis libraries)
     - Google Colab
 
-- Clase 2: Generación de Texto
-  - Generación de texto con GPT-2
+- Class 2: Text Generation
+  - Text generation with GPT-2
 
-- Clase 3: Generación de texto avanzada y composición musical
-  - Composición musical con GPT-2
-  - Otros modelos interesantes
-    - Generador de fake news (CTRL)
+- Class 3: Advanced text generation and musical composition
+  - Music composition with GPT-2
+  - Other interesting models
+    - Fake news generator (CTRL)
     - Jukebox
 
-- Clase 4: Sintesis de voz con redes neuronales (dc_tts)
-  - Cómo preparar el conjunto de datos para clonar una voz
-  - Cómo entrenar un modelo para clonar una voz
+- Class 4: Voice synthesis with neural networks (dc_tts)
+  - How to prepare the dataset to clone a voice
+  - How to train a model to clone a voice
 
-- Clase 5: Codificación y síntesis de audio
-  - Spleeter: Separación de fuentes de audio
-  - Transcripción de audio a partitura automático
-  - GANSynth: Síntesis de audio
+- Class 5: Audio coding and synthesis
+  - Spleeter: Separation of audio sources
+  - Automatic transcription of audio to score
+  - GANSynth: Audio Synthesis
 
-- Clase 6: Modelos para contenido multimedia
-  - Modelos de síntesis de canto (Mellotron, Sinsy y vocaloid)
-  - Síntesis y edición de imágenes
-  - Síntesis y composición de video
+- Class 6: Models for multimedia content
+  - Singing synthesis models (Mellotron, Sinsy and vocaloid)
+  - Image synthesis and editing
+  - Video synthesis and composition
