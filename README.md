@@ -1,4 +1,4 @@
-# ArtWithAI
+# Art with AI
 
 Are you interested in art? Are you curious about how new technological tools might help in your creative process? Then this is the course for you. In this class you are going to learn what Artificial Intelligence is and how to get your hands on practical and fun projects quickly.
 
