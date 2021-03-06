@@ -1,9 +1,12 @@
 # ArtWithAI
-Course about artificial intelligence applied to the arts. Notebooks available in spanish and english.
+
+Are you interested in art? Are you curious about how new technological tools might help in your creative process? Then this is the course for you. In this class you are going to learn what Artificial Intelligence is and how to get your hands on practical and fun projects quickly.
+
+## How to use this material?
+
+You can follow it order or go straight to the Lectures that you find more interesting if you feel confident enough. If you are not familiar with Google Colab you might check first the Lecture 0 and some Youtube tutorials. In the links you will find all the materials of each class, [ES] stands for spanish and [EN] for english.
 
 ## Course syllabus
-
-In the links you will find all the materials of each class, [ES] stands for spanish and [EN] for english.
 
 - Lecture 0: Python & Colab intro [[EN](https://colab.research.google.com/drive/1zISwRDEe2a0mofnn8t0NGR6j3smggX7a)] [[ES](https://colab.research.google.com/drive/1yQ0Gd_MYuCTqjquUy9KClE3nWIPX64wj)]
 
