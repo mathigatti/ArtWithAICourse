@@ -6,7 +6,7 @@ Are you interested in art? Are you curious about how new technological tools mig
 
 ## How to use this material?
 
-You can follow it order or go straight to the Lectures that you find more interesting if you feel confident enough. If you are not familiar with Google Colab you might check first the Lecture 0 and some Youtube tutorials. In the links you will find all the materials of each class, [ES] stands for spanish and [EN] for english.
+You can follow it in order or go straight to the Lectures that you find more interesting if you feel confident enough. If you are not familiar with Google Colab you might check first the Lecture 0 and some Youtube tutorials. In the links you will find all the materials of each class, [ES] stands for spanish and [EN] for english.
 
 ## What I can do with this?
 
